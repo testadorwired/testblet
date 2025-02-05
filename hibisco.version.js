@@ -1,0 +1,1 @@
+window.latestHibiscoVersion = "16.0.326";
